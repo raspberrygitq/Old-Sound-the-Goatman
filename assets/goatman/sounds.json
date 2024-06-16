@@ -1,0 +1,128 @@
+{
+  "distant_voice_1": {
+    "subtitle": "sounds.goatman:distant_voice_1",
+    "sounds": [
+      "goatman:distant_voice_1"
+    ]
+  },
+  "distant_voice_2": {
+    "subtitle": "sound.goatman:distant_voice_2",
+    "sounds": [
+      "goatman:distant_voice_2"
+    ]
+  },
+  "distant_voice_3": {
+    "subtitle": "sound.goatman:distant_voice_3",
+    "sounds": [
+      "goatman:distant_voice_3"
+    ]
+  },
+  "distant_voice_4": {
+    "subtitle": "sound.goatman:distant_voice_4",
+    "sounds": [
+      "goatman:distant_voice_4"
+    ]
+  },
+  "trot_1": {
+    "subtitle": "sound.goatman:trot_1",
+    "sounds": [
+      "goatman:trot_1"
+    ]
+  },
+  "trot_2": {
+    "subtitle": "sound.goatman:trot_2",
+    "sounds": [
+      "goatman:trot_2"
+    ]
+  },
+  "trot_3": {
+    "subtitle": "sound.goatman:trot_3",
+    "sounds": [
+      "goatman:trot_3"
+    ]
+  },
+  "trot_4": {
+    "subtitle": "sound.goatman:trot_4",
+    "sounds": [
+      "goatman:trot_4"
+    ]
+  },
+  "scream_1": {
+    "subtitle": "sound.goatman:scream_1",
+    "sounds": [
+      "goatman:scream_1"
+    ]
+  },
+  "scream_2": {
+    "subtitle": "sound.goatman:scream_2",
+    "sounds": [
+      "goatman:scream_2"
+    ]
+  },
+  "scream_3": {
+    "subtitle": "sound.goatman:scream_3",
+    "sounds": [
+      "goatman:scream_3"
+    ]
+  },
+  "scream_4": {
+    "subtitle": "sound.goatman:scream_4",
+    "sounds": [
+      "goatman:scream_4"
+    ]
+  },
+  "flee_1": {
+    "subtitle": "sound.goatman:flee_1",
+    "sounds": [
+      "goatman:flee_1"
+    ]
+  },
+  "flee_2": {
+    "subtitle": "sound.goatman:flee_2",
+    "sounds": [
+      "goatman:flee_2"
+    ]
+  },
+  "vanish": {
+    "subtitle": "sound.goatman:vanish",
+    "sounds": [
+      "goatman:vanish"
+    ]
+  },
+  "spotted": {
+    "subtitle": "sound.goatman:spotted",
+    "sounds": [
+      "goatman:spotted"
+    ]
+  },
+  "goatman_death": {
+    "subtitle": "sound.goatman:goatman_death",
+    "sounds": [
+      "goatman:goatman_death"
+    ]
+  },
+  "goatman_hurt_1": {
+    "subtitle": "sound.goatman:goatman_hurt_1",
+    "sounds": [
+      "goatman:goatman_hurt_1"
+    ]
+  },
+  "goatman_hurt_2": {
+    "subtitle": "sound.goatman:goatman_hurt_2",
+    "sounds": [
+      "goatman:goatman_hurt_2"
+    ]
+  },
+  "goatman_hurt_3": {
+    "subtitle": "sound.goatman:goatman_hurt_3",
+    "sounds": [
+      "goatman:goatman_hurt_3"
+    ]
+  },
+  "goatman_hurt_4": {
+    "subtitle": "sound.goatman:goatman_hurt_4",
+    "sounds": [
+      "goatman:goatman_hurt_4"
+    ]
+  }
+}
